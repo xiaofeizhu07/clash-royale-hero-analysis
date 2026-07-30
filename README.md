@@ -27,19 +27,21 @@ This project analyzes the competitive impact of the hero mechanic introduced in 
 
 ## Repository Structure
 
-├── Code.ipynb # Battle data analysis pipeline
-├── Sentiment Analysis.ipynb # Sentiment analysis pipeline
-├── hero_winrate_results.csv # Population level win rate results
-├── elite_winrate_results.csv # Elite level win rate results
-├── hero_usage_results.csv # Hero usage rates by season
-├── individual_hero_winrates.csv # Individual hero win rates by season
-├── sentiment_by_season.csv # Seasonal sentiment scores
-├── winrate_with_ci.csv # Win rates with confidence intervals
-├── elite_winrate_with_ci.csv # Elite win rates with confidence intervals
-├── hero_winrate_analysis.png # Figure 1
-├── hero_usage_analysis.png # Figure 2
-├── elite_vs_population_comparison.png # Figure 3
-└── sentiment_analysis.png # Figure 4
+```
+├── Code.ipynb                          # Battle data analysis pipeline
+├── Sentiment Analysis.ipynb            # Sentiment analysis pipeline
+├── hero_winrate_results.csv            # Population level win rate results
+├── elite_winrate_results.csv           # Elite level win rate results
+├── hero_usage_results.csv              # Hero usage rates by season
+├── individual_hero_winrates.csv        # Individual hero win rates by season
+├── sentiment_by_season.csv             # Seasonal sentiment scores
+├── winrate_with_ci.csv                 # Win rates with confidence intervals
+├── elite_winrate_with_ci.csv           # Elite win rates with confidence intervals
+├── hero_winrate_analysis.png           # Figure 1
+├── hero_usage_analysis.png             # Figure 2
+├── elite_vs_population_comparison.png  # Figure 3
+└── sentiment_analysis.png              # Figure 4
+```
 
 
 ## Tools and Libraries
