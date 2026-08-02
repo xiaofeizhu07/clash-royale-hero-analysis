@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes the competitive impact of the hero mechanic introduced in Clash Royale in December 2025, examining whether hero-containing decks demonstrate statistically significant win rate advantages over non-hero decks across five competitive seasons (December 2025 – May 2026).
 
-📄 [Read the full paper](clash_royale_hero_analysis_paper.pdf)
+📄 [Read the full paper](Clash_Royale_Hero_Analysis.pdf)
 
 ## Research Questions
 1. Do hero-containing decks demonstrate statistically significant competitive advantages over non-hero decks at top ladder?
