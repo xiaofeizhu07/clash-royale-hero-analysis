@@ -30,6 +30,7 @@ This project analyzes the competitive impact of the hero mechanic introduced in 
 ## Repository Structure
 
 ```
+├── clash_royale_hero_analysis_paper.pdf  # Full research paper
 ├── Code.ipynb                          # Battle data analysis pipeline
 ├── Sentiment Analysis.ipynb            # Sentiment analysis pipeline
 ├── hero_winrate_results.csv            # Population level win rate results
